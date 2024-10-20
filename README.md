@@ -42,7 +42,7 @@ def parse_args():
     args = parser.parse_args()
     return args
 ```
-If you don't specify a target directory the script will create a folder in the super-directory as sour source dir.The computation is still quite heavy in terms of computing ressources and the speed will very much depend on the number of CPU processors you have available.
+If you don't specify a target directory the script will create a folder in the super-directory as sour source dir. The computation is still quite heavy in terms of computing ressources and the speed will very much depend on the number of CPU processors you have available.
 
 ## Citation
 
